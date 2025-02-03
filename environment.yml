@@ -1,0 +1,13 @@
+name: pyspark-env
+channels:
+  - defaults
+dependencies:
+  - python=3.11.8
+  - ipykernel
+  - pandas
+  - plotly
+  - nbformat
+  - matplotlib
+  - scikit-learn
+  - seaborn
+prefix: C:\Users\linhh\anaconda3\envs\pyspark-env
